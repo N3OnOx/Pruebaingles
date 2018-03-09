@@ -1,0 +1,113 @@
+avion|plane
+vuelo|flight
+anden|lane
+aterrizar|land
+billete|ticket
+a tiempo|on time
+mesa|table
+silla|chair
+abrochar|fasten
+aerolinea|airline
+agente de seguridad|security agent
+asiento|seat
+asiento (pasillo)|aisle seat
+asiento (ventana)|window seat
+auricular|headset
+autobus|bus
+autopista|highway
+ayudar|help
+azafata|stewardess
+barco|float
+bicicleta|bicycle
+billete de ida|single ticket
+billete de vuelta|return ticket
+bolsa de viaje|travel bag
+cabina|cabin
+cabina del piloto|cockpit
+candado|lock
+capitan|captain
+carretera|road
+carretilla|trolley
+chaleco salvavidas|life jacket
+cinturon de seguridad|seatbelt
+coche|car
+confiscar|confiscated
+control de seguridad|checkpoint
+copiloto|co-pilot
+desabrochar|unfasten
+desembarcar|disembark
+despegar|take off
+destino|destination
+direccion|direction
+documentacion|papers
+embarcar|board
+equipaje|baggage
+equipaje de mano|hand baggage
+equipaje demasiado grande|over-size baggage
+equipaje facturado|checked baggage
+estacion de tren|train station
+estancia|stay
+exceso de equipaje|excess baggage
+exceso de reserva (en un hotel por ejemplo no hay habitaciones)|overbooking
+facturar|check in
+ferrocarril|railroad
+fila|row
+frontera|border
+gasolina|gasoline
+gasolinera|gas station
+gps|gps
+guia (de persona)|guide
+guia (de libro)|guidebook
+habitacion doble|double room
+habitacion individual|single room
+habitaciones disponibles|rooms available
+impuesto|tax
+itinerario|itinerary
+llave|key
+llegada|arrival
+maleta|suitcase
+mapa|map
+maquina de billetes (transporte)|ticket machine
+media pension|half board
+metro|subway
+motocicleta|motorcycle
+numero de vuelo|flight number
+oficina de informacion|information office
+origen|origin
+parada|stop
+pasajero|passenger
+pasaporte|passport
+pasillo|hall
+peaje|toll
+pension|boarding-house
+policia|police
+precio del billete|fare
+puerta de embarque|gate
+recepcion|reception
+regreso/vuelta|return
+reserva|reservation
+residencia|residential hotel
+retraso|delay
+ruta|route
+sala de espera|waiting room
+salida|departure
+seguro de viajes|travel insurance
+semaforo|traffic light
+taquilla|ticket office
+tarjeta de embarque|boarding pass
+tarjeta de identidad|identity card
+taxi|taxi
+telefono|telephone
+terminal|terminal building
+tienda de campaña|tent
+tren|train
+turismo|tourism
+turista|tourist
+ventana|window
+viajero|traveller
+viaje de estudios|study trip
+viaje de ida|outward journey
+viaje de ida y vuelta|return journey
+viaje de negocios|business trip
+visado|visa
+visado de estancia|permit to stay
